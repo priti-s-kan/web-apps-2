@@ -7,7 +7,7 @@ class ContactsController < ApplicationController
   end
 
   def new
-    # render contacts/new view with new Contact form
+    @
   end
 
   def create
